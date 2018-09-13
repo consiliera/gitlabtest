@@ -1,5 +1,8 @@
 # Testproject
 
+## Success
+If you can read this (on GitHub) the **mirroring** works fine.
+
 ## Introduction
 This is only an example of a readme file which is useful
 
@@ -15,7 +18,7 @@ Here I would like to see [links](https://wikipedia.de) to :point_right:
 - all further documentation
 - teams (if any)
 - Wiki
-- and another
+- and nothing
 
 ## Connect
 And last but not least: Here comes a list of social media channels and communities elsewhere. :sunny: Add an image or Emoji here and there :+1:
