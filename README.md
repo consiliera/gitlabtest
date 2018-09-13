@@ -4,6 +4,7 @@
 If you can read this (on GitHub) the **mirroring** works fine.
 
 ## Override?
+YES. Of course, everything one would now update on the GitHUB side will be **overridden** with the next update from GitLab.
 
 ## Introduction
 This is only an example of a readme file which is useful
