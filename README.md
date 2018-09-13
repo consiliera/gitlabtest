@@ -1,5 +1,8 @@
 # Testproject
 
+## Success
+If you can read this (on GitHub) the **mirroring** works fine.
+
 ## Introduction
 This is only an example of a readme file which is useful
 
